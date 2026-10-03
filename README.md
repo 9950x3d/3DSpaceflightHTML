@@ -25,14 +25,14 @@ Some libraries are loaded at runtime, so an internet connection may be required 
 
 ## Origins & Credits
 
-Orbital Foundry started as a fork of [CatPrinceHQ2](https://github.com/CatPrinceHQ2)'s [SpaceflightSimulatorInHTML](https://github.com/CatPrinceHQ2/SpaceflightSimulatorInHTML).
+Orbital Foundry originally began as a separate project. During development, some code from [CatPrinceHQ2](https://github.com/CatPrinceHQ2)'s [SpaceflightSimulatorInHTML](https://github.com/CatPrinceHQ2/SpaceflightSimulatorInHTML) was incorporated and adapted.
 
-What began as a smaller single-file spaceflight project kept growing: the renderer became fully 3D, and much of the simulation and game logic was expanded, replaced, or rewritten along the way.
+After discussing this with the original author, the repository was published as a fork at their request. Because of this, GitHub shows Orbital Foundry as a fork, although the project itself was originally developed independently.
 
-Many thanks to **CatPrinceHQ2** for the original project and for providing the starting point.
+Many thanks to CatPrinceHQ2 for the code used from their project and for their guidance on attribution.
 
 * [Original repository](https://github.com/CatPrinceHQ2/SpaceflightSimulatorInHTML)
-* [Original Reddit post](https://www.reddit.com/r/SpaceflightSimulator/comments/1vjevli/i_made_spaceflight_simulator_in_a_single_html/)
+* [Original Reddit post](https://www.reddit.com/r/spaceflightsimulator/comments/1o8fwmp/i_made_spaceflight_simulator_in_html/)
 
 ## Status
 
